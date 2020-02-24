@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <malloc.h>
 
+//用来实验GitHub的代码更新功能而新加入的一行
+
 #define INF     32767               //定义∞
 #define MAXV    100                 //最大顶点个数
 
